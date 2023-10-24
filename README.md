@@ -1,5 +1,9 @@
 # DtuPay Web Service
+
+## Description
 Main group project of the Development of Web Services course. It was about creating several microservices, REST API utilization and specification, and tests (REST API, feature using Cucumber, End-To-End).
+
+
 
 ## Installation
 
