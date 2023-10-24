@@ -1,7 +1,7 @@
 # DtuPay Web Service
 
 ## Description
-Main group project of the Development of Web Services course. It was about creating several microservices using Docker, REST API utilization and specification, and creation of software tests (REST API, feature using Cucumber, End-To-End).
+Main group project of the Development of Web Services MSc course. It was about creating several microservices using Docker, REST API utilization and specification, and creation of software tests (REST API, feature using Cucumber, End-To-End).
 
 ![System architecture](message_queue.png)
 
