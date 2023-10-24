@@ -4,7 +4,7 @@ Main group project of the Development of Web Services course. It was about creat
 ## Installation
 
 To build, deploy and test the project run
-'''./build_and_run.sh'''
+...../build_and_run.sh
 
 ## Scripts
 - './build.sh'
